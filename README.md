@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/85e74fd3-37e3-4641-872d-5607cd444acb" />
+  <img src="src/test/resources/photo_logo/Web Automation Project.png" />
 </p>
 <h1 align="center"> Web Automation Project </h1>
