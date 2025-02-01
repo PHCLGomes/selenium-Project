@@ -8,6 +8,14 @@
   </h1>
 </div>
 
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Maven-v3.9.9-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-v17.0.8-800000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Cucumber-7.20.1-a8e4a0">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Selenium-4.25.0-568203">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Javafaker-1.0.2-5e1914">
+</p>
+
 ## Introduction
 
 Docusaurus is a project for building, deploying, and maintaining open source project websites easily.
