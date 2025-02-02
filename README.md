@@ -59,38 +59,22 @@ BDD (Behavior Driven Development) is a methodology that aims to integrate stakeh
       <br />
     <br /> 
 ## Files structure
-
-  It`s necessary to have...
-  
  <img width="195" alt="image" src="https://github.com/user-attachments/assets/6ac45149-c694-4de0-b62d-fc127f2a48d1" />
     <br />
     <br />
-  - 1 - Hooks
-
-   ...
-  
-  - 2 - Pages
-
-   ....
-  
-  - 3 - runner
-
-  ...
-  
-  - 4 - steps
-
-  ...
-  
-  - 5 - support
-
-  ...
-  
-  - 6 - features
-
-  ...
-
-
-
-
-
-
+1 - Hooks: The Hooks.class class in a web automation project with Selenium and Cucumber plays a fundamental role in test execution, acting as a central point for defining actions that must be performed before and after the execution of each test scenario.
+    <br />
+     <br />    
+2 - Pages: Page Object is a design pattern widely used in automated web interface testing, especially when working with frameworks such as Selenium and Cucumber. It is used to model web application pages as objects in our test code, providing several benefits for the organization, maintenance and readability of tests.
+      <br />
+      <br />
+3 - runner: The Runner class in a web automation project with Selenium and Cucumber plays a key role in executing automated tests. It serves as the entry point to the Cucumber framework, acting as the engine that initiates and coordinates the execution of test scenarios defined in .feature files.
+      <br />
+      <br />
+4 - steps: In a web automation project using Selenium and Cucumber, the Steps class plays a fundamental role in implementing the steps described in the test scenarios. It is where the natural language of the scenarios is transformed into executable code, establishing the bridge between the definition of the tests and their automated execution.
+    <br />
+    <br />
+5 - support: In a web automation project using Selenium and Cucumber, the support class plays a fundamental role in organizing and reusing code, in addition to facilitating test maintenance.
+      <br />
+      <br />
+6 - features: A feature in a Selenium and Cucumber web automation project serves as the backbone of your test scenarios. It clearly and concisely defines the behavior you expect your web application to have.
