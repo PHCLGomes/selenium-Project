@@ -17,23 +17,32 @@
 </p>
 
 ## Introduction
-Web Automation Project is a project for ...
+Test automation is an essential practice in modern software development, allowing the repeated execution of tests quickly and reliably. The use of frameworks like Selenium, combined with programming languages like Java, facilitates the creation of robust and efficient test scripts.
+
+BDD (Behavior Driven Development) is a methodology that aims to integrate stakeholders in the development process, using a common language to describe the expected behavior of the system. Automated tests are written in a readable format that can be understood by all team members, including business analysts, developers, and testers.
 
 
 - **Purpose**
 
-  > The purpose...
+  > This automation project aims to demonstrate knowledge in software testing, using Java, Selenium, and the BDD (Behavior Driven Development) framework. The proposal is to create a set of automated tests for a web application, focusing on the validation of asserts (assertions) to ensure the correct functioning of the system.
+
 
 
 - **Tecnologies**
 
   The technologies...
-  
+
   > Selenium
+  
+  In essence, Selenium automates web browser interactions to test website functionality, ensuring a smooth user experience.
 
   > Cucumber
   
+  The Cucumber dependency is a critical component for behavior-driven development (BDD) in Java projects. It facilitates the execution of feature files, which are human-readable descriptions of software behavior written in Gherkin.
+  
   > JavaFaker
+  
+  JavaFaker is a popular Java library used to generate realistic test data.
   
   > Maven and Java
 
@@ -44,6 +53,8 @@ Web Automation Project is a project for ...
 ## How to install and build
 
 - **Requirements**
+    <br />
+    <br />
   It`s necessary to have...
   
   > Maven version 3.9.9
@@ -53,35 +64,40 @@ Web Automation Project is a project for ...
   > Chrome version 132
 
   
-## Folder structure
+## Files structure
 
   It`s necessary to have...
   
-  <img width="175" alt="image" src="https://github.com/user-attachments/assets/2e93d6c6-7783-4eab-8ad0-1a259deed426" />
+ <img width="195" alt="image" src="https://github.com/user-attachments/assets/6ac45149-c694-4de0-b62d-fc127f2a48d1" />
+    <br />
+    <br />
+    
+  > 1 - Hooks
+
+   ...
   
-| First Header  | Second Header |          |
-| ------------- | ------------- |----------|
-| Content Cell  | Content Cell  |          |
-| Content Cell  | Content Cell  |          |
+  > 2 - Pages
 
-|      SRC      |    test       |   Hooks  |
-|---------------|---------------|----------|
-|---------------|---------------|----------|
-|---------------|---------------|----------|
-|      SRC      |    test       |          |
-|---------------|---------------|----------|
-|---------------|---------------|----------|
-|---------------|---------------|----------|
-|---------------|---------------|----------|
+   ....
+  
+  > 3 - runner
 
-| SRC | test | Hooks | Hooks.class | Descrition |
-|     |      |       |             |            |   
-|              |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+  ...
+  
+  > 4 - steps
+
+  ...
+  
+  > 5 - support
+
+  ...
+  
+  > 6 - features
+
+  ...
+
+
+
 
 
 
