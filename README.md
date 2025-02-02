@@ -26,42 +26,32 @@ BDD (Behavior Driven Development) is a methodology that aims to integrate stakeh
 
   > This automation project aims to demonstrate knowledge in software testing, using Java, Selenium, and the BDD (Behavior Driven Development) framework. The proposal is to create a set of automated tests for a web application, focusing on the validation of asserts (assertions) to ensure the correct functioning of the system.
 
-
-
-- **Tecnologies**
-
-  The technologies...
-
-  > Selenium
-  
-  In essence, Selenium automates web browser interactions to test website functionality, ensuring a smooth user experience.
-
-  > Cucumber
-  
-  The Cucumber dependency is a critical component for behavior-driven development (BDD) in Java projects. It facilitates the execution of feature files, which are human-readable descriptions of software behavior written in Gherkin.
-  
-  > JavaFaker
-  
-  JavaFaker is a popular Java library used to generate realistic test data.
-  
-  > Maven and Java
-
 - **About the dev**
   > ...
 
+
+## Tecnologies
+
+ - $${\color{lightgreen}Selenium:}$$ In essence, Selenium automates web browser interactions to test website functionality, ensuring a smooth user experience.
+
+ - $${\color{green}Cucumber:}$$ The Cucumber dependency is a critical component for behavior-driven development (BDD) in Java projects. It facilitates the execution of feature files, which are human-readable descriptions of software behavior written in Gherkin.
+  
+- $${\color{red}JavaFaker:}$$ JavaFaker is a popular Java library used to generate realistic test data.
+  
+- $${\color{blue}Maven:}$$ Maven is a powerful build automation tool primarily used for Java projects. It simplifies the build process by Managing dependencies, Building and packaging, Project lifecycle and Reporting.
+    
+- $${\color{white}Java:}$$ Java is a high-level, object-oriented programming language known for its platform independence, meaning code written on one system can run on any system with a Java Virtual Machine (JVM) installed.
+    
 
 ## How to install and build
 
 - **Requirements**
     <br />
-    <br />
-  It`s necessary to have...
-  
-  > Maven version 3.9.9
-  
-  > JDK version 17
-  
-  > Chrome version 132
+    <br />  
+  - Java Development Kit (JDK): Install the latest version of the JDK.
+  - Build Tool: Maven
+  - IDE: IntelliJ IDEA or Eclipse.
+  - Drivers: Install the drivers corresponding to the browsers that will be used (Chrome, Firefox, etc.).
 
   
 ## Files structure
