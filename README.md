@@ -45,15 +45,19 @@ BDD (Behavior Driven Development) is a methodology that aims to integrate stakeh
 
 ## How to install and build
 
-- **Requirements**
-    <br />
-    <br />  
+- **Requirements**  
   - Java Development Kit (JDK): Install the latest version of the JDK.
   - Build Tool: Maven
   - IDE: IntelliJ IDEA or Eclipse.
   - Drivers: Install the drivers corresponding to the browsers that will be used (Chrome, Firefox, etc.).
-
-  
+    <br />
+    <br /> 
+- **Install**
+  - Clone the repository: ``` git clone https://github.com/PHCLGomes/selenium-Project.git ```
+  - Install the dependencies: ``` mvn clean install ```
+  - Run tests: ``` mvn test ``` 
+      <br />
+    <br /> 
 ## Files structure
 
   It`s necessary to have...
