@@ -65,28 +65,27 @@ BDD (Behavior Driven Development) is a methodology that aims to integrate stakeh
  <img width="195" alt="image" src="https://github.com/user-attachments/assets/6ac45149-c694-4de0-b62d-fc127f2a48d1" />
     <br />
     <br />
-    
-  > 1 - Hooks
+  - 1 - Hooks
 
    ...
   
-  > 2 - Pages
+  - 2 - Pages
 
    ....
   
-  > 3 - runner
+  - 3 - runner
 
   ...
   
-  > 4 - steps
+  - 4 - steps
 
   ...
   
-  > 5 - support
+  - 5 - support
 
   ...
   
-  > 6 - features
+  - 6 - features
 
   ...
 
